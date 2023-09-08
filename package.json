@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "engines": {
-    "node": ">=18t "
+    "node": ">=18"
   },
   "dependencies": {
     "@astrojs/mdx": "^1.0.3",
